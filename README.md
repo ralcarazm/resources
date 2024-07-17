@@ -207,7 +207,6 @@ Ref: THOMPSON, D. (2005). Access all areas. *NATURE*, *435*, 2.### Visualisation
 
 Ref: Ancker, J. S., Senathirajah, Y., Kukafka, R., & Starren, J. B. (2006). Design features of graphs in health risk communication: A systematic review. *Journal of the American Medical Informatics Association*, *13*(6), 608-618.
 
-
 ### [Designing communicative visualization for people with intellectual developmental disabilities [PDF]](https://osf.io/zbjhr/download?format=pdf)
 
 [Designing communicative visualization for people with intellectual developmental disabilities [PDF Viewer]](https://osf.io/zbjhr)
@@ -218,6 +217,9 @@ Ref: Wu, K., Tanis, S., & Szafir, D. (2019). Designing communicative visualizati
 
 Ref: Gould, B., O'Connell, T., and Freed, G. (2008). Effective Practices for Description of Science Content within Digital Talking Books.
 
+### [Enhancing statistical chart accessibility for people with low vision: insights from a user test [PDF]](https://doi.org/10.1007/s10209-024-01111-4)
+Ref: Alcaraz-Martínez, R., Ribera, M., Adeva-Fillol, A., Pascual-Almenara, A. (2024). Enhancing statistical chart accessibility for people with low vision: insights from a user test. *Universal access in the information society*. 
+
 ### [Generating Seizure-Inducing Sequences with Interactive Visualizations [PDF Viewer]](https://osf.io/85gwy/)
 
 Ref: South, L., Borkin, M. (2021). Generating Seizure-Inducing Sequences with Interactive Visualizations.
@@ -227,7 +229,12 @@ Ref: South, L., Borkin, M. (2021). Generating Seizure-Inducing Sequences with In
 Ref: Galesic, M., & Garcia-Retamero, R. (2011). Graph literacy: A cross-cultural comparison. *Medical Decision Making*, *31*(3), 444-457.### Design features of graphs in health risk communications: a systematic review
 
 ### [Image Description Template [Tool]](http://valeriemorash.com/imageDescription.html)
+
 Ref: Morash, V., Siu, Y. -T., Miele, J.A., Hasty, L., & Landau, S. (2015). Guiding novice web workers in making image descriptions using templates.
+
+### [Methodology for heuristic evaluation of the accessibility of statistical charts for people with low vision and color vision deficiency [PDF]]([https://doi.org/10.1007/s10209-021-00816-0)
+
+Ref: Alcaraz-Martínez, R., Ribera, M., Granollers Saltiveri, T. (2021). Methodology for heuristic evaluation of the accessibility of statistical charts for people with low vision and color vision deficiency. *Universal access in the information society*, *21*.
 
 ### [Producing accessible statistics diagrams in R [PDF]](https://core.ac.uk/download/pdf/185503569.pdf)
 
